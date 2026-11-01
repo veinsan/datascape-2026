@@ -1,0 +1,14 @@
+# Competition data (download from Kaggle)
+data/
+
+# Notebook runtime outputs (checkpoints, logs, submission)
+output/
+*.pt
+*.safetensors
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+.env
